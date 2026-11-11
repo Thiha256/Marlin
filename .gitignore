@@ -1,0 +1,6 @@
+# Python cache files (made automatically, not needed in the repo)
+__pycache__/
+*.pyc
+
+# VSCode settings (contain paths specific to this laptop)
+.vscode/
